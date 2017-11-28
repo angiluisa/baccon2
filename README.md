@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+ HEAD
 # A Blank PhoneGap App
 
 ## Usage
@@ -13,7 +13,7 @@ In your browser, open the file:
 
     /www/index.html
 
-=======
+
 # baccon2
 baccon2
->>>>>>> origin/master
+ origin/master
